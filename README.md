@@ -8,6 +8,8 @@ Como segundo paso, aprendi como ligar este archivo con uno CSS para dar estilo a
 
 Finalmente, se programo la funcionalidad del proyecto para crear un encriptador de texto que cambiara ciertos elementos del mensaje (con restricciones de escritura), nos mostrara el mensaje, copiarlo y poder volverlo a decodificar para decifrarlo. 
 
+![](Proof3.png)
+
 # Requerimientos
 
 No se requiere instalar ningun software adicional para ejecutarlo. Solamente se debe abrir en el explorador de su preferencia y listo.
