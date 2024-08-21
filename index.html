@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es-mx">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptador</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <a href="#" rel="">
+            <img src="Assets/Logo.png" alt="logo Alura" class="logo">
+        </a>
+    </header>
+    <main class="contenedor">
+        <section class="encriptar">
+            <textarea class="texto" id="texto" placeholder="Ingrese el texto aqui"></textarea>
+            <div class="terminos">
+                <img src="Assets/Informacion.png" alt="Imagen info" class="img-info">
+                <p class="aviso-terminos">
+                    Solo letras minúsculas y sin acentos
+                </p>
+            </div>
+            <div class="botones">
+                <button  type="submit" class="boton-encriptar">
+                    Encriptar
+                </button>
+                <button type="submit" class="boton-desencriptar" >
+                    Desencriptar
+                </button>
+            </div>
+        </section>
+        <section class="encriptado">
+            <div class="mensaje-encriptado" id="mensaje-encriptado">
+                <img src="Assets/Muñeco.png" alt="Imagen Muñeco" class="Muñeco">                        
+                <p class="titulo-mensaje">
+                    Ningún mensaje fue encontrado
+                </p>
+                <p class="parrafo">
+                    Ingresa el texto que desees encriptar o desencriptar
+                </p>                
+            </div>
+            <textarea type="mensaje" id="mensaje" class="evaluar" readonly></textarea>
+            <button type="submit" class="boton-copiar">
+                Copiar
+            </button>            
+        </section>    
+    </main>
+    <footer>
+        <p class="Alumno">
+            Proyecto desarrollado por Omar León Don Juan
+        </p>
+    </footer>
+    <script src="encryptor.js"></script>
+</body>
+</html>
