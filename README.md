@@ -35,3 +35,5 @@ Omar Leon Don Juan
 # Reflexion
 
 Aunque trabaje mucho tiempo en este proyecto, considero que no es la version final y puede ser mejorado en muchos aspectos. Aun no he tenido la oportunidad de trabajar en proyectos colaborativos pero creo que sera un gran motivador porque considero que se pueden lograr cosas interesantes con el apoyo e involucramiento de otros miembros. Definitivamente, he aprendido mucho y espero seguir en este curso para aprender mucho mas.
+
+![](aluraoracle.jpg)
