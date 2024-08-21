@@ -18,6 +18,8 @@ Durante todo el proceso de elaboracion, se tienen que correr distintas pruebas p
 
 Al final, es muy satisfactorio lograr el objetivo. 
 
+![](Proof1.png)
+
 # Construido con
 
 Este proyecto se desarrollo con Visual Studio Code con HTML 5.
