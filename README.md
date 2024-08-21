@@ -23,6 +23,7 @@ Al final, es muy satisfactorio lograr el objetivo.
 # Construido con
 
 Este proyecto se desarrollo con Visual Studio Code con HTML 5.
+
 ![](VS.jfif)
 
 # Autor
